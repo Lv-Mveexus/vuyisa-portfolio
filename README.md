@@ -1,2 +1,2 @@
 # vuyisa-portfolio
-Repository containing my personal wwb development portfolio
+Repository containing my personal dev portfolio
